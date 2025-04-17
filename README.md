@@ -46,7 +46,7 @@
 
 ---
 
-### 📄 [Práctica 5 Grafos](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%205/tp5_Grafos.pdf)
+### 📄 [Práctica 5 Grafos (X)](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%205/tp5_Grafos.pdf)
 
 🔹 **Ejercicios:**  
 💻 [Ejercicio 1]() | 💻 [Ejercicio 2]() | 💻 [Ejercicio 3]()  
