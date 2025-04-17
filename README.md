@@ -24,7 +24,7 @@
 
 ---
 
-### 📄 [Práctica 3 Arboles Binarios Generales]()
+### 📄 [Práctica 3 Arboles Binarios Generales](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%203/tp3_ArbolesGenerales.pdf)
 
 🔹 **Ejercicios:**  
 💻 [Ejercicio 1]() | 💻 [Ejercicio 2]() | 💻 [Ejercicio 3]()  
@@ -35,7 +35,7 @@
 
 ---
 
-### 📄 [Práctica 4 Tiempos de Ejecución ]()
+### 📄 [Práctica 4 Tiempos de Ejecución ](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%204/tp4_TiempoDeEjecucion.pdf)
 
 🔹 **Ejercicios:**  
 💻 [Ejercicio 1]() | 💻 [Ejercicio 2]() | 💻 [Ejercicio 3]()  
@@ -46,7 +46,7 @@
 
 ---
 
-### 📄 [Práctica 5 Grafos]()
+### 📄 [Práctica 5 Grafos](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%205/tp5_Grafos.pdf)
 
 🔹 **Ejercicios:**  
 💻 [Ejercicio 1]() | 💻 [Ejercicio 2]() | 💻 [Ejercicio 3]()  
