@@ -35,7 +35,7 @@
 
 ---
 
-### 📄 [Práctica 4 Tiempos de Ejecución ](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%204/tp4_TiempoDeEjecucion.pdf)
+### 📄 [Práctica 4 Tiempos de Ejecución (X) ](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%204/tp4_TiempoDeEjecucion.pdf)
 
 🔹 **Ejercicios:**  
 💻 [Ejercicio 1]() | 💻 [Ejercicio 2]() | 💻 [Ejercicio 3]()  
