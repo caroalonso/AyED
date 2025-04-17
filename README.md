@@ -27,10 +27,10 @@
 ### 📄 [Práctica 3 Arboles Binarios Generales](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%203/tp3_ArbolesGenerales.pdf)
 
 🔹 **Ejercicios:**  
-💻 [Ejercicio 1]() | 💻 [Ejercicio 2]() | 💻 [Ejercicio 3]()  
-💻 [Ejercicio 4]() | 💻 [Ejercicio 5]() | 💻 [Ejercicio 6]()  
-💻 [Ejercicio 7]() | 💻 [Ejercicio 8]() | 💻 [Ejercicio 9]()  
-💻 [Ejercicio 10]() | 💻 [Ejercicio 11]()
+💻 [Ejercicio 1](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio1) | 💻 [Ejercicio 2](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio2) | 💻 [Ejercicio 3](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio3)  
+💻 [Ejercicio 4](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio4) | 💻 [Ejercicio 5](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio5) | 💻 [Ejercicio 6 (X)]()  
+💻 [Ejercicio 7](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio7) | 💻 [Ejercicio 8](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio8) | 💻 [Ejercicio 9](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio9)  
+💻 [Ejercicio 10](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio10) | 💻 [Ejercicio 11](https://github.com/caroalonso/AyED/tree/main/Practicas/Practica%203/tp3/ejercicio11)
 
 
 ---
