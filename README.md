@@ -2,7 +2,10 @@
 
 ## **Prácticas**
 
-### 📄 [Práctica 1 Listas]()
+### 📄 [Sinopsis de Estructuras]()
+---
+
+### 📄 [Práctica 1 Listas](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%201/tp1_Listas.pdf)
 
 🔹 **Ejercicios:**  
 💻 [Ejercicio 1]() | 💻 [Ejercicio 2]() | 💻 [Ejercicio 3]()  
@@ -12,7 +15,7 @@
 
 ---
 
-### 📄 [Práctica 2 Arboles Binarios]()
+### 📄 [Práctica 2 Arboles Binarios](https://github.com/caroalonso/AyED/blob/main/Practicas/Practica%202/tp2_ArbolesBinarios.pdf)
 
 🔹 **Ejercicios:**  
 💻 [Ejercicio 1]() | 💻 [Ejercicio 2]() | 💻 [Ejercicio 3]()  
