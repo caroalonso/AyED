@@ -1,5 +1,7 @@
 package tp2.ejercicio8;
 
+import java.util.Queue;
+
 public class BinaryTree<T> {
 
 	private T data;
@@ -113,24 +115,24 @@ public class BinaryTree<T> {
 //---------------------------------------------------------------------------
 
 	public BinaryTree<T> espejo() {
-		BinaryTree<T> espejoAB = new BinaryTree<>(this.getData());
-		if (this.isLeaf())
+		BinaryTree<T> espejoAB = new BinaryTree<T>();
+		if (this.isEmpty())
 			return espejoAB;
-
+      espejoAB.setData(this.getData());
 		this.espejo(this, espejoAB);
 		return espejoAB;
 	}
 
 	private void espejo(BinaryTree<T> original, BinaryTree<T> espejo) {
 		if (original.hasLeftChild()) {
-			BinaryTree<T> Hijoderecho = new BinaryTree<T>(original.getLeftChild().getData());
-			espejo.addRightChild(Hijoderecho);
-			this.espejo(original.getLeftChild(), espejo);
+			BinaryTree<T> hijoDerecho = new BinaryTree<T>(original.getLeftChild().getData());
+			espejo.addRightChild(hijoDerecho);
+			this.espejo(original.getLeftChild(), hijoDerecho);
 		}
 		if (original.hasRightChild()) {
 			BinaryTree<T> hijoIzquierdo = new BinaryTree<T>(original.getRightChild().getData());
 			espejo.addLeftChild(hijoIzquierdo);
-			this.espejo(original.getRightChild(), espejo);
+			this.espejo(original.getRightChild(), hijoIzquierdo);
 		}
 	}
 
